@@ -1,4 +1,5 @@
 import * as React from "react"
+import cv from "../assets/cv-jeff-johnson.pdf"
 
 // styles
 const pageStyles = {
@@ -54,6 +55,11 @@ const links = [
     text: "LinkedIn",
     url: "https://www.linkedin.com/in/jffjhnsn/",
     color: "#1099A8",
+  },
+  {
+    text: "CV",
+    url: cv,
+    color: "#000000",
   },
 ]
 
