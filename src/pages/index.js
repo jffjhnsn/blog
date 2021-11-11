@@ -4,12 +4,14 @@ import * as React from "react"
 const pageStyles = {
   color: "#232129",
   padding: 96,
-  fontFamily: "Open Sans, -apple-system, Roboto, sans-serif, serif",
+  lineHeight: 1.3,
+  fontFamily: "-apple-system, Roboto, sans-serif, serif",
 }
 const headingStyles = {
   marginTop: 0,
   marginBottom: 64,
   maxWidth: 320,
+  lineHeight: 1,
 }
 const headingAccentStyles = {
   color: "#1F5673",
@@ -18,7 +20,7 @@ const paragraphStyles = {
   marginBottom: 48,
 }
 const listStyles = {
-  marginBottom: 96,
+  marginBottom: 64,
   paddingLeft: 0,
 }
 const listItemStyles = {
@@ -26,6 +28,7 @@ const listItemStyles = {
   fontSize: 24,
   maxWidth: 560,
   marginBottom: 12,
+  lineHeight: 1,
 }
 
 const linkStyle = {
@@ -116,6 +119,7 @@ const IndexPage = () => {
           </li>
         ))}
       </ul>
+      <p>I'd love to hear from you! You can reach me at <a style={linkStyle} href="mailto:jeffjohnsonxyz@gmail.com">jeffjohnsonxyz@gmail.com</a>.</p>
     </main>
   )
 }
