@@ -2,15 +2,18 @@ import * as React from "react"
 
 // styles
 const pageStyles = {
+  maxWidth: "70ch",
   color: "#232129",
-  padding: 96,
+  padding: "3em 1em",
+  margin: "auto",
   lineHeight: 1.3,
   fontFamily: "-apple-system, Roboto, sans-serif, serif",
+  fontSize: "1.25rem",
 }
 const headingStyles = {
   marginTop: 0,
   marginBottom: 64,
-  maxWidth: 320,
+  maxWidth: 400,
   lineHeight: 1,
 }
 const headingAccentStyles = {
@@ -21,11 +24,9 @@ const paragraphStyles = {
 }
 const listStyles = {
   marginBottom: 64,
-  paddingLeft: 0,
 }
 const listItemStyles = {
   fontWeight: 300,
-  fontSize: 24,
   maxWidth: 560,
   marginBottom: 12,
   lineHeight: 1,
@@ -34,8 +35,6 @@ const listItemStyles = {
 const linkStyle = {
   color: "#21A179",
   fontWeight: "bold",
-  fontSize: 16,
-  verticalAlign: "5%",
   textDecoration: "none",
 }
 
