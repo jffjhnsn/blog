@@ -94,8 +94,7 @@ const IndexPage = () => {
           borderfree.tech
         </a>, an early-stage startup focused on payments and ecommerce. 
         There, I've been helping build <a style={linkStyle} href="https://revovideo.com" target="_blank" rel="noreferrer">Revo Video</a>, a live-streaming interactive commerce 
-        platform in React. <a style={linkStyle} href="https://www.loom.com/share/041fe4cb9b4948fcbe37407e60d81b6c" target="_blank" rel="noreferrer">
-          Here's a demo</a> of what we've achieved so far.
+        platform in React.
       </p>
       <p>
         Originally from Portland, Oregon, I moved to Berlin in 2017.
