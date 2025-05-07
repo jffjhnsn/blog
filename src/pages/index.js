@@ -76,12 +76,15 @@ const IndexPage = () => {
         <span style={headingAccentStyles}>— software engineer </span>
       </h1>
       <p>
-        I'm a recent graduate (as in, this November!) from the <a style={linkStyle} href="https://hpi.de/" target="_blank" rel="noreferrer">Hasso Plattner 
-        Institute</a> and I have significant experience in TypeScript 
+        At Zalando since 2022. I'm currently building bespoke, AI-assisted tools for domain experts across customer care, logistics, and payments to give insights into the customer experience. 
+      </p>
+      <p>
+        In 2021, I graduated from the <a style={linkStyle} href="https://hpi.de/" target="_blank" rel="noreferrer">Hasso Plattner 
+        Institute</a> and I have significant experience in Python, TypeScript, 
         and web development.
       </p>
       <p>
-        For the past year, I built new tools for <a style={linkStyle} href="https://kyub.com/" target="_blank" rel="noreferrer">
+        Between 2020 and 2021, I built new tools for <a style={linkStyle} href="https://kyub.com/" target="_blank" rel="noreferrer">
           kyub
         </a>, a 3D editor for building physical prototypes for laser cutting. In 
         benchmark tests with the most popular laser-cut models on the internet, 
@@ -90,10 +93,10 @@ const IndexPage = () => {
         using kyub to explore the design space of guitars.
       </p>
       <p>
-        I've also been working as a software engineer at <a style={linkStyle} href="https://borderfree.tech/" target="_blank" rel="noreferrer">
+        I've also worked previously as a software engineer at <a style={linkStyle} href="https://borderfree.tech/" target="_blank" rel="noreferrer">
           borderfree.tech
         </a>, an early-stage startup focused on payments and ecommerce. 
-        There, I've been helping build <a style={linkStyle} href="https://revovideo.com" target="_blank" rel="noreferrer">Revo Video</a>, a live-streaming interactive commerce 
+        There, I helped build <a style={linkStyle} href="https://revovideo.com" target="_blank" rel="noreferrer">Revo Video</a>, a live-streaming interactive commerce 
         platform in React.
       </p>
       <p>
